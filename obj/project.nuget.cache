@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MY1ClaViQcRiii8DDaZejkw9xwIBx5IGhs4/uN+pGS6mG3VuQD8E6gGRON2E/c4U0qkVLTl5aEQ8ftCgAn79LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samir\\Desktop\\codeAcademy\\backend\\hometask-13\\hometask-13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samir\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\samir\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
